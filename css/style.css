@@ -1,0 +1,21 @@
+@import url(reset.css);
+caption{
+  background-color: #4F4F4F;
+  color: white;
+  padding: 10px
+}
+th{
+  background-color: #d3d3d3;
+}
+table{
+  border: 1px solid #4F4F4F;
+}
+tr{
+  border: 1px solid #4F4F4F;
+  margin: 10px;
+  padding:4px;
+}
+td{
+  border: 1px solid #4F4F4F;
+  padding:7px;
+}
